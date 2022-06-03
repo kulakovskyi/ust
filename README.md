@@ -14,4 +14,4 @@
 
 <h1><h1>
 
-<img src="https://github.com/kulakovskyi/body-time/blob/main/readme-img/screencapture-localhost-3000-2022-05-31-17_55_42.jpg" alt="site-image" />
+<img src="https://github.com/kulakovskyi/ust/blob/main/readme-img/ust.jpg" alt="site-image" />
